@@ -18,7 +18,7 @@
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔥 Meme Of The Day
+### 🔥 MOTD(Meme Of The Day)
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
