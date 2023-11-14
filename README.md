@@ -1,5 +1,6 @@
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2000&pause=1000&color=61E0D2&random=false&width=435&lines=Hi%2C+I'm+Tarang;I'm+a+Web-Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=61E0D2&random=false&width=435&lines=Hi%2C+I'm+Tarang;I'm+a+Web-Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 👨‍💻 Currently immersed in e-commerce development.<br>🚀 Passionate about crafting efficient solutions and continuous learning.<br>💡 Fun fact: I've never lost a fight against a grizzly bear.<br>🌐 Check out my GitHub for a glimpse into my coding journey.<br>Let's connect and code the future together! 🌟
 
 
