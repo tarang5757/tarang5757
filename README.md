@@ -1,7 +1,4 @@
-  <p>
-   <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1200&random=false&width=600&lines=Hey%2C+I'm+Tarang;I+craft+digital+dreams+with+code%20%F0%9F%9A
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=30&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Tarang;I'm+a+Software+Developer" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 👋 Hey! I'm a 20-year-old aspiring software engineer.<br>👨‍💻 Currently immersed in e-commerce development.<br>🚀 Passionate about crafting efficient solutions and continuous learning.<br>💡 Fun fact: I've never lost a fight against a grizzly bear.<br>🌐 Check out my GitHub for a glimpse into my coding journey.<br>Let's connect and code the future together! 🌟
