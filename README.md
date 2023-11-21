@@ -1,8 +1,11 @@
 
 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=61E0D2&random=false&width=475&height=60&lines=Hi%2C+I'm+Tarang;I'm+a+Web-Developer;Always+Learning+New+Things" alt="Typing SVG" /></a>
-👨‍💻 Currently immersed in e-commerce development.<br>🚀 Passionate about crafting efficient solutions and continuous learning.<br>💡 Fun fact: I've never lost a fight against a grizzly bear.<br>🌐 Check out my GitHub for a glimpse into my coding journey.<br>Let's connect and code the future together! 🌟
 
+👨‍💻 Second-Year CS Student At York University<br>
+📍 I reside in Toronto, Canada<br>
+🏆 1x Hackathon Winner<br>
+💡 Fun fact: I've never lost a fight against a grizzly bear.<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ztUcVHfZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taranglmfao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarangpatel11/) 
