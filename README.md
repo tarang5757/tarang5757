@@ -1,6 +1,6 @@
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=800080&random=false&width=475&height=60&lines=Hi%2C+I'm+Tarang!;I'm+a+Web-Developer;Always+Learning+New+Things" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=a202ff&random=false&width=475&height=60&lines=Hi%2C+I'm+Tarang!;I'm+a+Web-Developer;Always+Learning+New+Things" alt="Typing SVG"/></a>
 
 # 💫 About Me: 
 🎓 Second-Year CS Student At York University<br>
