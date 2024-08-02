@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=a202ff&random=false&width=475&height=60&lines=Hi%2C+I'm+Tarang!;I'm+a+Software-Developer;Always+Learning+New+Things" alt="Typing SVG"/></a>
 
 # 💫 About Me: 
-🎓 Second-Year CS Student At York University<br>
+🎓 Third-Year CS Student At York University<br>
 📍 I reside in Toronto, Canada<br>
 🏆 3x Hackathon Winner<br>
 💡 Fun fact: I've never lost a fight against a grizzly bear.<br>
