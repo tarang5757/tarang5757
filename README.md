@@ -5,7 +5,7 @@
 # 💫 About Me: 
 🎓 Third-Year CS Student At York University<br>
 📍 I reside in Toronto, Canada<br>
-🏆 3x Hackathon Winner<br>
+🏆 1x Hackathon Winner<br>
 💡 Fun fact: I've never lost a fight against a grizzly bear.<br>
 
 ## 🌐 Socials:
