@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F9mtznxfpdeuq48ed1el8.gif" width="300" />
+<img src="https://images.steamusercontent.com/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="509" height="300" />
 
 
 </div>
