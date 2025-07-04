@@ -6,8 +6,3 @@
 Beautiful. Minimal. Reusable.
 
 </div>
-
----
-
-## ✨ Overview
-A curated collection of clean, minimal, and ready-to-use **Tailwind CSS components** — made to build fast and look great.
