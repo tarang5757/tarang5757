@@ -16,7 +16,7 @@
 
 <div align="center">
 
-*Keep it simple. Keep it elegant.*  
+*Build. Break. Learn. Repeat.*  
 
 </div>
 
